@@ -63,12 +63,12 @@ Here's some code you can use on the command line:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/YilingSuun/Hole-in-the-Ground-Source-Code.git
 ```
 
 2. Enter your directory
 ```bash
-cd your-repo
+cd Hole-in-the-Ground-Source-Code
 ```
 
 3. install dependencies
